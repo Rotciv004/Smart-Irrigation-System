@@ -12,14 +12,6 @@ The project was developed in **Arduino IDE** and represents a simple smart irrig
 
 ---
 
-## Project Photo
-
-> Add your project image in the repository and update the path below if needed.
-
-![Project Setup](docs/project-photo.jpg)
-
----
-
 ## Schematics
 
 The schematic must include all hardware components used in the project. The wires should be clearly separated, should not overlap as much as possible, and should use different colors so that the connections are easy to understand.
